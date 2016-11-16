@@ -28,7 +28,7 @@ public class Zahlen implements IZahlen {
 	/**
 	 * Klasse zum berechnen der Summer der Elemente in der Liste
 	 * 
-	 * @return d die Summe
+	 * @return d die Summe der gesamten Liste
 	 */
 
 	@Override
