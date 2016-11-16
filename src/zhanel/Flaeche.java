@@ -1,4 +1,4 @@
-package goebbels;
+package zhanel;
 /**
  * @author Christoph
  * @version 2016-11-10
